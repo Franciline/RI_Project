@@ -6,5 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+# Datasets
+dbpedia-2016-10/
+benchmarkY2test-public.v2.1.1.tar.xz
+unprocessedAllButBenchmark.v2.1.tar.xz
+
 # Virtual environments
 .venv
