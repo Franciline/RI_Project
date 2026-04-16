@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+TMEs_RI/
 
 # Datasets
 dbpedia-2016-10/
