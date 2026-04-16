@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 TMEs_RI/
+old_files/
 
 # Datasets
 dbpedia-2016-10/
